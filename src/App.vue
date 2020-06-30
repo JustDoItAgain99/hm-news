@@ -19,15 +19,17 @@
 /* .color {
   border: 1px solid red;
 } */
+* {
+  font-size: 12px;
+}
 .app {
-  width: 300px;
-  height: 300px;
+  width: 375px;
+  height: 375px;
   background-color: pink;
 }
 .app .box {
   width: 150px;
   height: 150px;
   background-color: green;
-  font-size: 24px;
 }
 </style>
