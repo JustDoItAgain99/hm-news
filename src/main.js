@@ -4,10 +4,10 @@ import 'amfe-flexible'
 // import Vant from 'vant'
 // import 'vant/lib/index.css'  这个是全局导入用的
 // Vue.use(Vant)
-import { Button, Field } from 'vant'
+import { Button, Sku } from 'vant'
 
 Vue.use(Button)
-Vue.use(Field)
+Vue.use(Sku)
 Vue.config.productionTip = false
 
 new Vue({
